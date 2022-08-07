@@ -1,0 +1,2 @@
+# ccfilter
+一个从DBLP的搜索结果中筛选CCF文章的Python脚本，筛选结果以csv文件导出
